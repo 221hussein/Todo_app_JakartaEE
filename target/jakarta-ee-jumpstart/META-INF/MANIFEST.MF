@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Hussein221
+Build-Jdk: 17.0.9
+Specification-Version: 1.0-SNAPSHOT
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.hussein
+Implementation-URL: http://arquillian.org/jakarta-ee-jumpstart
+Java-Version: 17.0.9
+Java-Vendor: Amazon.com Inc.
+Os-Name: Windows 10
+Os-Arch: amd64
+Os-Version: 10.0
+Scm-Url: git://github.com/arquillian/arquillian-core.git/jakarta-ee-jump
+ start
+Scm-Connection: scm:git:git://git@github.com:arquillian/arquillian-core.
+ git/jakarta-ee-jumpstart
+Scm-Revision: 
+
