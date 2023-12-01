@@ -1,2 +1,5 @@
 com\hussein\config\JAXRSConfig.class
+com\hussein\entity\AbstractEntity.class
+com\hussein\entity\Todo.class
+com\hussein\entity\TodoUser.class
 com\hussein\rest\HelloWorldRest.class
